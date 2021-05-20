@@ -1,10 +1,10 @@
 ---
 layout: post
-title: You're up and running!
+title: Understanding Data Science
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Data science is an exciting new field that is not fully understood by a lot of people, and is often confused as being just another, or rebranded, name for statistics. In my first blog post, I will summarize what I see to be the major differences between a statistician and a data scientist. 
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+Data science is an interdisciplinary field involving not just statistics, but also programming and business or product knowledge. A data scientist needs to deeply understand the business so they can use data analytics to appropriately solve a problem. Unlike statisticians, a data scientist is often concerned with building the most accurate predictive model and applying it to guide or make business decisions. A statistician may be more interested in quantifying uncertainty and understanding how the variables affect the response, or inference. Often, a data scientist will work with much larger data sets than a statistician, and the sources the data is derived from can be very different. A statistician may work with survey data or experimental data, for example, while a data scientist is more likely to train a model on big data derived from many different sources.
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+As a statistician who has had some training in statistical learning methods, I understand some of the techniques that go into data science. However, if I were to pursue the role of a data scienctist, I would need to have a deeper level of programming knowledge and business and product knowledge, including Python, SQL, Spark, etc. Even if I do not pursue the title of a data scientist, the knowledge of programming methods, UI, how to handle large datasets, and business acumen will be invaluable in my career to come. 
