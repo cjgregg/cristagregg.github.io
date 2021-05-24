@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Crista Gregg is in her final semester of the Master's of Statistics program at NC State.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Crista discovered her passion for data while working in manufacturing after completing her Chemical Engineering degree, and was drawn into the world of data because of how it can be applied across many types of fields from business to research. She is interested in the application of statistics to research questions, with a focus in environmental studies. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:cjgregg017@gmail.com)
