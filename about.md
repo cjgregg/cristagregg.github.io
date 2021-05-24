@@ -12,4 +12,4 @@ Crista discovered her passion for data while working in manufacturing after comp
 
 ### Contact me
 
-[email@domain.com](mailto:cjgregg017@gmail.com)
+[cjgregg017@gmail.com](mailto:cjgregg017@gmail.com)
