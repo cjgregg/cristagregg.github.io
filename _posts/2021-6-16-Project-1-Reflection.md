@@ -10,5 +10,5 @@ The most challenging part of this project was learning how to access the API and
 One thing I would do differently is make sure my naming conventions are consistent from the beginning. Here, I used team_id or franchise_id for filtering the data pulled, depending on which endpoint I was trying to access. However, when I made the wrapped function I realized I needed to go back and make sure everything was named consistently to make it easier for the user to specify what they wanted. It was much harder to go back and change it than it would have been to have it all consistent from the beginning. 
 
 Below is the link to the vignette:
-Github Pages: https://cristagregg.github.io/st558_project1/
+Github Pages: https://cristagregg.github.io/st558_project1  
 Github Repo: https://github.com/cristagregg/st558_project1
