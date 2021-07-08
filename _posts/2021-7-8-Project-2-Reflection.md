@@ -9,4 +9,6 @@ The most difficult part of this project was automating the report to create the 
 
 The big take-away from this project for me is that it is much more efficient collaborating in Github for a team project. In the past, I have attempted to email the files back and forth, or use Google docs to upload each iteration of the file. This was frustrating and time-consuming. Using Github made the workflow much easier and helped me understand why it is so prevalent in data science and programming.
 
-The project is available here: https://cristagregg.github.io/st558_project2
+Below is the link to the vignette:  
+Github Pages: https://cristagregg.github.io/st558_project2  
+Github Repo: https://github.com/cristagregg/st558_project2  
