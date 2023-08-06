@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Crista Gregg's Data Science Blog
+name: Crista Gregg
 
 # Short bio or description (displayed in the header)
-description: Crista Gregg is working on her Master's degree in Statistics at NC State University.
+description: A data storyteller and visualizer.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars.githubusercontent.com/u/43120728?s=400&u=5b01de39e1686e85448dc503a9887ebdb09a8b18&v=4
@@ -18,12 +18,12 @@ avatar: https://avatars.githubusercontent.com/u/43120728?s=400&u=5b01de39e1686e8
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: cjgregg017@gmail.com
   facebook:
   flickr:
   github_username: cristagregg
   instagram:
-  linkedin: https://www.linkedin.com/in/cristagregg
+  linkedin: linkedin.com/in/cristagregg
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
@@ -41,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: http://cristagregg.github.io
+url: http://cristagregg.com
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
