@@ -12,8 +12,6 @@ I discovered my passion for working with data while working in manufacturing aft
 
 ### Contact me
 
-If you'd like to connect, please feel free to reach out to me via email or LinkedIn. I would love to hear from you!
+If you'd like to connect, please feel free to reach out to me via email. I would love to hear from you!
 
 [cjgregg017@gmail.com](mailto:cjgregg017@gmail.com)
-
-[Crista's LinkedIn](linkedin.com/in/cristagregg)
